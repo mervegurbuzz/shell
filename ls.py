@@ -11,4 +11,4 @@ def getname(path):
         exit()
 
 if __name__=='__main__':
-    print(getname('.'))
+    print(getname('.'))/.
